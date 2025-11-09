@@ -110,16 +110,6 @@ The game features a retro aesthetic with:
 - **Resolution**: Dynamic based on cell size and count
 - **Frame Rate**: 60 FPS
 
-## 🚀 Future Enhancements
-
-Potential features for future development:
-- [ ] High score system
-- [ ] Multiple difficulty levels
-- [ ] Power-ups and special food
-- [ ] Multiplayer support
-- [ ] Custom themes
-- [ ] Mobile port
-
 ## 🤝 Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
